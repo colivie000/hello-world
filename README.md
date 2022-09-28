@@ -10,9 +10,11 @@
 > Italian dishes are my favorite
 
 ### Hobbies
--Playing basketball
--Playing piano and listening to music
--Coding
+- Playing basketball
+
+- Playing piano and listening to music
+
+- Coding
 
 
 
